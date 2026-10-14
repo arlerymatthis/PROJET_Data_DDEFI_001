@@ -1,1 +1,1 @@
-projet
+print("projet")
